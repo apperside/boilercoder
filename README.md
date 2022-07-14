@@ -10,9 +10,11 @@
  <h1 align="center">Generate a full typescript source code <br/>for a complete full stack CRUD application in minutes</h1>
 
 
-  
 
-https://boilercoder.apperside.com/docs/assets/medias/basic-usage-bf39523aed3f95a6ec1997b1d78f7866.mp4
+https://user-images.githubusercontent.com/5955338/179019428-fadb1130-7f4e-4d27-ba5b-9fc1dffab91b.mp4
+
+
+  
 <p align="center">
 
   <h1 align="center">👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼</h1>
