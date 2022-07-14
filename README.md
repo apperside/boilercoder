@@ -12,7 +12,7 @@
 
   
 
-https://user-images.githubusercontent.com/5955338/178462629-1c5aecc6-52e4-4351-8176-cf1cf27e1d02.mp4
+https://boilercoder.apperside.com/docs/assets/medias/basic-usage-bf39523aed3f95a6ec1997b1d78f7866.mp4
 <p align="center">
 
   <h1 align="center">👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼</h1>
