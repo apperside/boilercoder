@@ -1,5 +1,7 @@
 
-
+.element {
+  font-size: 75;
+}
 
 
 <p align="center">
@@ -9,12 +11,18 @@
   
  <h1 align="center">Generate a full typescript source code <br/>for a complete full stack CRUD application in minutes</h1>
 
+<div class="element"> This is my text number1</div> 
 
+<h1>ℹ️ At the moment this project is not open sourced, may it will be, maybe not. This repo is here to track the issues with the web app at https://boilercoder.apperside.com</h1>
+<br/>
+<br/>
 
+ ## DEMO VIDEO
+ 
 https://user-images.githubusercontent.com/5955338/179019428-fadb1130-7f4e-4d27-ba5b-9fc1dffab91b.mp4
 
 
-  
+
 <p align="center">
 
   <h1 align="center">👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼</h1>
